@@ -178,7 +178,7 @@ Upcoming features include:
 
 <br />
 
-To run the app locally, navigate to the root directory of the project in the terminal and enter `flask run`. In a separate terminal, navigate to the `/react-app` directory and enter `npm start`. This should automatically launch a browser window navigated to the proper localhost address. By defauly, the app will be running on port 3000.
+To run the app locally, navigate to the root directory of the project in the terminal and enter `flask run`. In a separate terminal, navigate to the `/react-app` directory and enter `npm start`. This should automatically launch a browser window navigated to the proper localhost address. By default, the app will be running on port 3000.
 
 ## Reduncrate Was Built By:
 
