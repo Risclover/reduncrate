@@ -1,4 +1,4 @@
-![Reduncrate Logo](https://github.com/Risclover/reduncrate/blob/main/reduncrate-logo.png)
+<p align="center"><img src="https://github.com/Risclover/reduncrate/blob/main/reduncrate-logo.png" /></p>
 
 <p align="center">
 
