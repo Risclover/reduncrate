@@ -163,7 +163,7 @@ Upcoming features include:
 <br/>
 
 <p>
-  Logged-in Users can checkout their current cart to complete their purchase, and see that reflected in thei order history.
+  Logged-in Users can checkout their current cart to complete their purchase, and see that reflected in their order history.
 </p>
 
 ![checkout-cart](./gifs/checkout-cart.gif)
