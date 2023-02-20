@@ -1,4 +1,4 @@
-![Reduncrate Logo](https://raw.githubusercontent.com/g-wn/uncrate-clone/main/react-app/public/images/reduncrate-white2.png)
+![Reduncrate Logo](https://github.com/Risclover/reduncrate/blob/main/reduncrate-logo.png)
 
 <p align="center">
 
